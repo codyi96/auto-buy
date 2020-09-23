@@ -1,5 +1,7 @@
 # 自动购买姬
 
+[![HitCount](http://hits.dwyl.com/codyi96/auto-buy.svg)](http://hits.dwyl.com/codyi96/auto-buy)
+
 淘宝/天猫抢购小助手，Python练手项目。
 
 ## 功能
